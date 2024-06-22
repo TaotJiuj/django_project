@@ -1,2 +1,2 @@
-# django_project
-伟大的实战项目练习
+# mall_platform
+商城平台
